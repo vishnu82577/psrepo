@@ -1,0 +1,1 @@
+new-azresourcegroup -name "psrg" -location "eastus"
